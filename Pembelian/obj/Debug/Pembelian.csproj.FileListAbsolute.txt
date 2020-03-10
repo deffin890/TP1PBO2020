@@ -1,0 +1,13 @@
+C:\KULIAH\SEMESTER 4\PBO\praktikum\pertemuan 1\TP\Pembelian\Pembelian\bin\Debug\Pembelian.exe.config
+C:\KULIAH\SEMESTER 4\PBO\praktikum\pertemuan 1\TP\Pembelian\Pembelian\bin\Debug\Pembelian.exe
+C:\KULIAH\SEMESTER 4\PBO\praktikum\pertemuan 1\TP\Pembelian\Pembelian\bin\Debug\Pembelian.pdb
+C:\KULIAH\SEMESTER 4\PBO\praktikum\pertemuan 1\TP\Pembelian\Pembelian\obj\Debug\Pembelian.csprojAssemblyReference.cache
+C:\KULIAH\SEMESTER 4\PBO\praktikum\pertemuan 1\TP\Pembelian\Pembelian\obj\Debug\Pembelian.Properties.Resources.resources
+C:\KULIAH\SEMESTER 4\PBO\praktikum\pertemuan 1\TP\Pembelian\Pembelian\obj\Debug\Pembelian.csproj.GenerateResource.cache
+C:\KULIAH\SEMESTER 4\PBO\praktikum\pertemuan 1\TP\Pembelian\Pembelian\obj\Debug\Pembelian.exe
+C:\KULIAH\SEMESTER 4\PBO\praktikum\pertemuan 1\TP\Pembelian\Pembelian\obj\Debug\Pembelian.pdb
+C:\KULIAH\SEMESTER 4\PBO\praktikum\pertemuan 1\TP\Pembelian\Pembelian\obj\Debug\Pembelian.FrmHome.resources
+C:\KULIAH\SEMESTER 4\PBO\praktikum\pertemuan 1\TP\Pembelian\Pembelian\obj\Debug\Pembelian.FrmLogin.resources
+C:\KULIAH\SEMESTER 4\PBO\praktikum\pertemuan 1\TP\Pembelian\Pembelian\obj\Debug\Pembelian.FrmBeli.resources
+C:\KULIAH\SEMESTER 4\PBO\praktikum\pertemuan 1\TP\Pembelian\Pembelian\obj\Debug\Pembelian.ListItem.resources
+C:\KULIAH\SEMESTER 4\PBO\praktikum\pertemuan 1\TP\Pembelian\Pembelian\obj\Debug\Pembelian.FrmDetailBeli.resources

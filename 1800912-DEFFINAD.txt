@@ -1,0 +1,20 @@
+Saya Deffin Achmaddifa mengerjakan evaluasi TP1
+dalam mata kuliah PBO untuk keberkahanNya 
+maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
+
+Kesulitan :
+- Membuat user control pada flow panel
+- Menampilkan item detail pada button list
+
+Fitur yang dipelajari :
+- Menampilkan list pada user control
+- Menampilkan hyperlink pada button
+- Layouting
+
+Fitu yang sudah dikerjakan :
+- Login
+- Item List
+- Search
+- Detail Items
+- Hyperlink
+- Logout 
